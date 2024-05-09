@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.dark{
+    color: grey;
+    background-color: black;
+}
+.darkBtn {
+    color: yellow;
+    background-color: black;
+    border: 2px solid white;
+
+}

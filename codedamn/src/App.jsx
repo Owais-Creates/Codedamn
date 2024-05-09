@@ -5,12 +5,13 @@ import Day4 from "./Components/Day4"
 import Day5 from "./Components/Day5"
 import Day6 from "./Components/Day6"
 import Day7 from "./Components/Day7"
+import Day8 from "./Components/Day8"
 
 function App() {
   return (
     <>
       <div className="bg-zinc-400 w-full h-screen flex justify-center items-center" >
-        <Day7 />
+        <Day8 />
       </div>
     </>
   )
